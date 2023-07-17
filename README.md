@@ -1,0 +1,1 @@
+Simple data fetching from myanimelist api.
